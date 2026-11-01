@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cnbs": {
+      "type": "http",
+      "url": "https://cnbs.lets.zone/mcp",
+      "headers": {
+        "Authorization": "Bearer <在此填入服务提供者发放的令牌>"
+      }
+    }
+  }
+}
